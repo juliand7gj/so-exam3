@@ -1,6 +1,6 @@
 ### Universidad Icesi <br />
 
-# Informe Examen 2 <br />
+# Informe Examen 3 <br />
 
 **Nombre:** Luis Fernando Rosales Cadena <br />
 **Código:** A00315320 <br />
